@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Actividad 11</string>
+    <string name="normal">Normal</string>
+    <string name="sat_lite">Satélite</string>
+    <string name="mi_ubicaci_n">Mi Ubicación</string>
 </resources>
